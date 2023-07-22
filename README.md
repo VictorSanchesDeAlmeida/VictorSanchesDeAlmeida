@@ -1,2 +1,3 @@
-Ola,
-meu nome é Victor Sanches de Almeida 
+**Ola,**
+<br>
+meu nome é **Victor Sanches de Almeida**, desenvolvedor ***Front-end***
