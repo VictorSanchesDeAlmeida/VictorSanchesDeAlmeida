@@ -23,9 +23,6 @@
 
 ## Redes Sociais:
 <p>
-  <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/víctor-sanches-de-almeida-1220321b7/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
