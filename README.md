@@ -4,7 +4,7 @@
 
 - 🎓 **Estudante de Engenharia de Software**  
 - 🚀 **Buscando experiência no desenvolvimento Fullstack**  
-- 📫 **Entre em contato:** victorsanches@email.com  
+- 📫 **Entre em contato:** desenvolvedorvictorsanches@gmail.com  
 <!-- - 🌐 **Redes sociais:** [Meu Portfólio](https://seuportfoliolink.com) -->
 
 ---
